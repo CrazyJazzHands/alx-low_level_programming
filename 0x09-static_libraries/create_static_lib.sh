@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ar -rc liball.a *.o
-ranlib liball.a
+sudo ar -rc liball.a *.o
+sudo ranlib liball.a
